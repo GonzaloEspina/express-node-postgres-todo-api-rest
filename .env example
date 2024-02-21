@@ -1,0 +1,7 @@
+PORT=5002
+
+PGUSER='gonza'
+PGHOST='localhost'
+PGPASSWORD='G00nz@x4968_'
+PGDATABASE='prueba_conexion'
+PGPORT=5432
